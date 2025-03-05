@@ -1,4 +1,0 @@
-repository "提尔大陆：三人远征@tj_dd765f2d_7cbb_4580_938e_eba81eb30734@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
